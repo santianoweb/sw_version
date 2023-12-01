@@ -1,0 +1,3 @@
+MyAlert = (function () {
+    alert('here');
+})
